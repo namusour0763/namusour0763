@@ -1,16 +1,15 @@
-## Hi there 👋
+## Profile
 
-<!--
-**namusour0763/namusour0763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Somewhat engineer.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=5&i=aws,docker,terraform,ansible,vscode,bash,python,go,java,c,nextjs,react,typescript,html,css" />
+<br>
+
+## Activities
+
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=namusour0763&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namusour0763&theme=vue-dark&layout=compact" />
+</div>
